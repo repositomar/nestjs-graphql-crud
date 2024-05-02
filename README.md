@@ -51,6 +51,8 @@ $ npm run start:dev
 ## Mutation
 ### Create user
 > It is necessary to provide `name` and `email` to crete user.
+<img width="1455" alt="Captura de pantalla 2024-05-01 a la(s) 10 33 15 p m" src="https://github.com/repositomar/nestjs-graphql-crud/assets/94940686/b71a5001-9194-43bd-a4ec-131a55907614">
+
 
 ### Update user
 > It is necessary to provide `userId` and variables to update.
